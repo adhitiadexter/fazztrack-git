@@ -1,4 +1,4 @@
 hello world
 helo bandung
 update local        
-update lagi dong
+update lagi aja
